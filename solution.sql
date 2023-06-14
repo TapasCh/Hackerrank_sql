@@ -213,7 +213,7 @@ where LAT_N is the northern latitude and LONG_W is the western longitude.
 
 *Sample Input*
 
-Let's say that CITY only has four entries: DEF, ABC, PQRS and WXY
+Lets say that CITY only has four entries: DEF, ABC, PQRS and WXY
 
 *Sample Output*
 
@@ -531,4 +531,9 @@ We order our output by ascending employee_id.
 **Solution**
 
 SELECT NAME FROM EMPLOYEE WHERE SALARY > 2000  AND MONTHS < 10 ORDER BY EMPLOYEE_ID;  
+
+
+
+
+
 
